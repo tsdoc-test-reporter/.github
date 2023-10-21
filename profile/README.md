@@ -2,5 +2,5 @@
 
 **TSDoc Test Reporter** is a test reporter that attaches [TSDoc](https://tsdoc.org/) comments to your test results. It enables you to attach metadata to your unit tests in the form of comments.
 
-Visit the repository for the reporter to read try it out:
- - 🧪 [@tsdoc-test-reporter/reporter](https://github.com/tsdoc-test-reporter/reporter)
+ - 🧪 [Visit the main repository to try it out](https://github.com/tsdoc-test-reporter/reporter)
+ - 🎛️ [Checkout the kitchen sink to see what it can do](https://tsdoc-test-reporter.github.io/kitchen-sink/)
